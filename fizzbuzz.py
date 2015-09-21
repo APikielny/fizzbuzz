@@ -1,6 +1,6 @@
 """
 fizzbuzz.py
-Author: <your name here>
+Author: Adam Pikielny
 Credit: <list sources used, if any>
 
 Assignment:
@@ -44,3 +44,7 @@ Fizz
 Fizz
 Buzz
 """
+
+length=int(input("How many numbers shall we print? "))
+fizz=int(input("For multiples of what number shall we print 'Fizz'? "))
+buzz=int(input("For multiples of what number shall we print 'Buzz'? "))
