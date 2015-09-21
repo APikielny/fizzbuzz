@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
 Author: Adam Pikielny
-Credit: <list sources used, if any>
+Credit: No Sources Used
 
 Assignment:
 
